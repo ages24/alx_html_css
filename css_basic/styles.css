@@ -15,3 +15,7 @@ aside{
     flex: 1;
     overflow-y: auto;
 }
+.logo{
+    list-style: none;
+    padding: 0%;
+}
